@@ -31,7 +31,7 @@ test-output/
 *.iml
 
 ## Directory-based project format:
-#.idea/
+.idea/
 target/
 # if you remove the above rule, at least ignore the following:
 
